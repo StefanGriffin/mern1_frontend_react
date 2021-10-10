@@ -7,7 +7,7 @@
 
 [1 - Project setup ](../../tree/9e7150b9c0492fcd72f7eae414a12cee0fcd892c/)
 
-[2 - Empty ](../../tree//)
+[2 - Adding a create post endpoint ](../../tree/2179fd224baeedd13a3974fb30752ed6e58e8937/)
 
 [3 - Empty ](../../tree//)
 
