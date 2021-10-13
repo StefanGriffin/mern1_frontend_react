@@ -9,7 +9,7 @@
 
 [2 - Adding a create post endpoint ](../../tree/2179fd224baeedd13a3974fb30752ed6e58e8937/)
 
-[3 - Empty ](../../tree//)
+[3 - Adding server side validation ](../../tree/057a5b0364220f85ed2d89bfbf88e9fd3dfd918f/)
 
 [4 - Empty ](../../tree//)
 
